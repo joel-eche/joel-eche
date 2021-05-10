@@ -20,7 +20,7 @@ Hi, I'm Joel Eche, a passionate self-taught Full Stack web developer, and this i
 ### Something about me
 
 - 🌱 I’m currently learning **CI/CD**.
-- 👥 I’m like to collaborate with other Developers :wink:
+- 👥 I’m like to collaborate with other Developers
 - 💬 Ask me about anything you want, I am happy to help,
   if I don't know we can learn together :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
