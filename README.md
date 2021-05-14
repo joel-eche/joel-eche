@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Joel Eche <img height="35px" src="https://github.com/joel-eche/joel-eche/blob/master/images/wave.gif?raw=true" /></b></h1>
+  <h1 align="center"><b>Hello there, I'm Joel Eche</b></h1>
   
 </p>
 
